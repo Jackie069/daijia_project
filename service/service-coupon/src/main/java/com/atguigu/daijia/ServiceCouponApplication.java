@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableDiscoveryClient
 @EnableFeignClients
 public class ServiceCouponApplication {
-
+//test git
     public static void main(String[] args) {
         SpringApplication.run(ServiceCouponApplication.class, args);
     }
